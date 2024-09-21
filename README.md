@@ -23,5 +23,5 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SJY08&show_icons=true&theme=radical)
+![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=SJY08&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=sjy08&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJY08&layout=compact)

@@ -25,6 +25,10 @@
 
 <br>
 
+[![SJH08's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SJH08&theme=github-compact)](https://github.com/SJH08/github-readme-activity-graph)
+
+<br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjy08&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage
 )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SJY08&layout=compact)

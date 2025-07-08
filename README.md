@@ -53,7 +53,7 @@
 
 <div style="display: flex; justify-content: center; gap: 16px;">
   <a href="https://github.com/SJY08">
-    <img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=SJY08&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="SJY08's github stats" />
+    <img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=SJY08&show_icons=true&theme=dracula&hide_border=true" alt="SJY08's github stats" />
   </a>
 
   <a href="https://github.com/SJY08">

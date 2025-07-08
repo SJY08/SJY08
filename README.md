@@ -47,7 +47,7 @@
 
 <div style="width: fit-content; margin-left: auto; margin-right: auto;">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=SJY08&theme=dracula&border_radius=10&card_width=800" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=SJY08&theme=dracula&border_radius=10&card_width=1000" alt="GitHub Streak" />
   </a>
 </div>
 

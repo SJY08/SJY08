@@ -19,6 +19,7 @@ jobs:
         run: |
           git config user.name SJY08
           git config user.email jiyuseo2008@gmail.com
+          git remote set-url origin https://github.com/SJY08/SJY08.git
           git add -A .
           git commit -m "generated"
           git push

@@ -47,13 +47,15 @@
 
 <div style="width: fit-content; margin-left: auto; margin-right: auto;">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=SJY08&theme=dracula&border_radius=10&card_width=1000" alt="GitHub Streak" />
+    <img style="height:180px"
+     src="https://github-readme-stats.vercel.app/api?username=SJY08&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" />
   </a>
 </div>
 
 <div style="display: flex; justify-content: center; gap: 16px;">
   <a href="https://github.com/SJY08">
-    <img style="height:180px" src="https://github-readme-stats.vercel.app/api?username=SJY08&show_icons=true&theme=dracula&hide_border=true" alt="SJY08's github stats" />
+    <img style="height:180px"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJY08&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" />
   </a>
 
   <a href="https://github.com/SJY08">
